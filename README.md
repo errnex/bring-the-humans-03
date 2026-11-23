@@ -40,4 +40,4 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
 ## Status
 
-Video rendered and frame-checked in-session (first frame: badge + hook; last frame: end card with referral code). Awaiting the public TikTok post — `VIDEO.json` takes the video's real address once it is posted.
+Video rendered and frame-checked in-session (first frame: badge + hook; last frame: end card with referral code). Posted publicly on TikTok by @its_zerich on 2026-11-23T03:28:42Z: https://www.tiktok.com/@its_zerich/video/7711203677721120021 — the caption carries the play code makefun-carrot-flute-salmon, and `VIDEO.json` names this address.
